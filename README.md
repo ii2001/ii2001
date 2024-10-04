@@ -18,7 +18,7 @@
   </h6>
 </blockquote>
 
-<h2>💪Activity</h2>
+<h2>🏋️Activity</h2>
 
 <h5>
   우아한테크코스 6기 AN (2024.02 ~ )
