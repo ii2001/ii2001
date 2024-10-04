@@ -48,6 +48,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ii2001)](https://solved.ac/ii2001/)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ii2001)](https://leetcode.com/ii2001)
+
+
 <h3>Tools</h3> 
 
 <p>
