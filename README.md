@@ -71,7 +71,3 @@
     <a href="https://fossil-drifter-7be.notion.site/PengCook-7de0b01f342d442080f677c309796b5c?pvs=4"target="_self">🔗 펭쿡 : Global Recipe App</a> 
   </h6>
 <br><br>
-
-![ii2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=ii2001&show_icons=true&theme=highcontrast)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fii2001%2Fii2001%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23A01212&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
