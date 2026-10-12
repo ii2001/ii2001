@@ -26,6 +26,43 @@
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/woowacourse-teams/2024-pengcook">
+<img src="https://raw.githubusercontent.com/woowacourse-teams/2024-pengcook/main/android/app/src/main/ic_pengcook-playstore.png" alt="PengCook official app icon" height="145"/>
+</a><br/>
+<strong>🐧 PengCook</strong><br/>
+<sub>Android · Global Recipe SNS · Play Store 출시</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Ribuddy/AN">
+<img src="https://raw.githubusercontent.com/Ribuddy/AN/main/app/src/main/res/drawable/background_riding_report.png" alt="RiBuddy riding report illustration from official Android source" height="145"/>
+</a><br/>
+<strong>🏍️ RiBuddy</strong><br/>
+<sub>Android · Sensor Fusion · Accident Detection</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<a href="https://github.com/DDAL-KKAK-DOT/DDALKKAK">
+<img src="https://github.com/user-attachments/assets/41fe2a4d-094f-46e0-807e-c26126d41dd3" alt="딸깍 portfolio editor and live preview from team README" width="340"/>
+</a><br/>
+<strong>✨ 딸깍</strong><br/>
+<sub>FastAPI · Gemini · PDF Generator</sub>
+</td>
+<td align="center" valign="top">
+<a href="https://play.google.com/store/apps/details?id=kr.orthocare.anapa.mlkit">
+<img src="assets/anapa-workflow.svg" alt="ANAPA mobile pose estimation conceptual workflow diagram" width="340"/>
+</a><br/>
+<strong>🦾 ANAPA</strong><br/>
+<sub>Computer Vision · Pose Estimation · Android</sub>
+</td>
+</tr>
+</table>
+
+<sub>※ 이미지: 공개 프로젝트의 실제 로고·일러스트·서비스 화면 / ANAPA는 기능 흐름을 설명하기 위한 개념도입니다.</sub>
+
 ### 01. 🐧 PengCook — Global Recipe SNS
 **Android Developer** · 2024.06–11  
 `Kotlin` `MVVM` `Coroutines` `Room` `Firebase`
