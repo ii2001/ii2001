@@ -53,7 +53,7 @@
 </td>
 <td align="center" valign="top">
 <a href="https://play.google.com/store/apps/details?id=kr.orthocare.anapa.mlkit">
-<img src="assets/anapa-workflow.svg" alt="ANAPA mobile pose estimation conceptual workflow diagram" width="340"/>
+<img src="assets/anapa-login.jpg" alt="ANAPA 실제 앱 로그인 화면" height="240"/>
 </a><br/>
 <strong>🦾 ANAPA</strong><br/>
 <sub>Computer Vision · Pose Estimation · Android</sub>
@@ -61,7 +61,7 @@
 </tr>
 </table>
 
-<sub>※ 이미지: 공개 프로젝트의 실제 로고·일러스트·서비스 화면 / ANAPA는 기능 흐름을 설명하기 위한 개념도입니다.</sub>
+<sub>※ 이미지: 각 프로젝트의 공개 로고·일러스트·실제 서비스 화면입니다. ANAPA는 직접 제공받은 앱 화면입니다.</sub>
 
 ### 01. 🐧 PengCook — Global Recipe SNS
 **Android Developer** · 2024.06–11  
